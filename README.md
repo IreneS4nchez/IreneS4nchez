@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Actualmente estoy estudiando un grado de animación 3D y entornos interactivos
+- 🔭 Actualmente estoy estudiando un grado de animación 3D y entornos interactivos 
 - 🌱 Estoy aprendiendo a modelar, texturizar, animar y editar
 - 👯 Me gustaría colaborar con amigos
 - 🤔 Estoy buscando ayuda con texturizado y cortes de UVs
