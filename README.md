@@ -2,7 +2,7 @@
 ![s](https://github.com/user-attachments/assets/54bd2e46-c402-4e69-97e6-fd706d0d47a2)
 
 
-Hola! Me llamo Irene, tengo 18 años y me gusta dibujar, modelar, etc.
+Hola! Me llamo Irene, tengo 19 años y me gusta dibujar, modelar, etc.
 - Actualmente estoy estudiando un grado de animación 3D y entornos interactivos. 
 - Estoy aprendiendo a modelar, texturizar, animar y editar en distintos programas, como maya, blender, photoshop, etc.
 - Me gustaría colaborar con amigos que estudian lo mismo que yo.
